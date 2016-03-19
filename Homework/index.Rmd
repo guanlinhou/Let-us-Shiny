@@ -19,7 +19,7 @@ The presentation is made in the context of the course "Developing Data Products"
 
 The application "Millennium Development Goals (MDGs)" is deployed here: https://guanlinhou.shinyapps.io/MDGs/
 
-The dataset used and source code for ui.R and server.R files can be found here: https://github.com/guanlinhou/Shiny-App-course-project
+The dataset used and source code for ui.R and server.R files can be found here: https://github.com/guanlinhou/Let-us-Shiny
 
 --- .class #id
 
